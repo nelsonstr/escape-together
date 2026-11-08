@@ -6,14 +6,9 @@ import {
   Sparkles, 
   CheckCircle2, 
   Send, 
-  Plane, 
-  Palmtree, 
   Compass, 
   Clock, 
-  Smile, 
-  ChevronRight,
   MessageCircle,
-  Share2,
   Stars
 } from 'lucide-react';
 import { DESTINATIONS, Destination } from './destinations';
